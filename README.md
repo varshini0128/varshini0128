@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Varshini Siliveri
 
-🎓 B.Tech CSE (AI & ML) | Aspiring Fullstack Developer | Python & Web Development Enthusiast  
+🎓 B.Tech CSE (AI & ML) | Aspiring Fullstack Developer | Python & Web Development Enthusiast.   
+Portfolio: https://varsh-portfolio.netlify.app/
 
 ---
 
@@ -19,6 +20,7 @@
 - **Currency Converter Calculator** – Real-time currency converter app with calculator interface.  
 - **QuizBizz** – Interactive quiz application.  
 - **Twitter Sentiment Analysis** – Sentiment analysis on live Twitter data using Python.
+
 
 ---
 
