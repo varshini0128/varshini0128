@@ -28,7 +28,7 @@ Portfolio: https://varsh-portfolio.netlify.app/
 
 - **LinkedIn:** https://www.linkedin.com/in/varshininetha/
 - **GitHub:** https://github.com/varshini0128
-- **Email:** varshinisiliveri22@example.com  
+- **Email:** varshinisiliveri22@gmail.com  
 
 ---
 
