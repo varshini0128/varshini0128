@@ -16,11 +16,6 @@ Portfolio: https://varsh-portfolio.netlify.app/
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshini0128&theme=flat&no-frame=true&margin-w=10" alt="trophies" />
-</p>
-
 
 ## 🚀 Projects
 
@@ -31,17 +26,6 @@ Portfolio: https://varsh-portfolio.netlify.app/
 
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshini0128&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varshini0128&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshini0128&layout=compact&theme=default&hide_border=true" />
-</p>
 
 
 ## 📫 Connect with Me
